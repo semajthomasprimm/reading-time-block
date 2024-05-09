@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "title": "Reading Time Block",
   "category": "widgets",
-  "description": "Displays the estimated reading time of an page/post.",
+  "description": "Displays the estimated reading time of a page/post.",
   "example": {},
   "supports": {
     "color": {
